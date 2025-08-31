@@ -8,10 +8,10 @@ Soy un Ingeniero Informático titulado, con una fuerte pasión por la tecnologí
 
 ### Proyectos Destacados
 
-Aquí te muestro algunos proyectos que reflejan mis habilidades en diferentes áreas.
+Aquí te muestro algunos portafolios que reflejan mis habilidades en diferentes áreas.
 
 #### ⚡ **[Bootcamp HACKING ÉTICO EN APLICATIVOS WEB]**
-> ."
+> 
 > **Tecnologías:** `Linux`, `Nmap`, `Pentesting`, `Wireshark`, `Python`, `Scapy` `JavaScript básico`, `Git`, 
 >
 > **[Enlace al repositorio](https://github.com/MiguelAVZ2000/Bootcamp-Hacking-etico)**
@@ -33,6 +33,5 @@ Aquí te muestro algunos proyectos que reflejan mis habilidades en diferentes á
 ---
 
 <div align="center">
-  <h3>¡Conectemos!</h3>
   <p>Estoy siempre abierto a colaborar en proyectos y a aprender de la comunidad. ¡No dudes en contactarme!</p>
 </div>
