@@ -1,6 +1,6 @@
 ### Sobre mí
 
-Soy un Ingeniero Informático titulado, con una fuerte pasión por la tecnología, los datos y la mejora continua. Desde mis primeros pasos en el mundo de la informática, me ha motivado entender cómo funcionan las cosas a nivel interno y cómo optimizar procesos y resolver problemas técnicos.
+Soy un Ingeniero Informático titulado, con una fuerte pasión por la tecnología, la ciberseguridad, los datos y la mejora continua. Desde mis primeros pasos en el mundo de la informática, me ha motivado entender cómo funcionan las cosas a nivel interno y cómo optimizar procesos y resolver problemas técnicos.
 .
 
 
@@ -14,21 +14,21 @@ Aquí te muestro algunos proyectos que reflejan mis habilidades en diferentes á
 > ."
 > **Tecnologías:** `Linux`, `Nmap`, `Pentesting`, `Wireshark`, `Python`, `Scapy` `JavaScript básico`, `Git`, 
 >
-> **[Enlace al repositorio]()**
+> **[Enlace al repositorio](https://github.com/MiguelAVZ2000/Bootcamp-Hacking-etico)**
 
 #### 📊 **[Bootcamp de Análisis de Datos]**
 > 
 > **Tecnologías:** `Python`, `Pandas`, `Power BI`, `Excel`, `SQL`
 >
-> **[Enlace al repositorio]()**
+> **[Enlace al repositorio](https://github.com/MiguelAVZ2000/Bootcamp-Analisis-de-Datos)**
 
 
 ---
 
 ### Habilidades y Herramientas
 
-> | **Ciberseguridad** | `Linux`, `git`, `Nmap`, `Metasploit`, `Burp Suite`, `Wireshark`, `Análisis Forense`|
-> | **Análisis de Datos** | `Python`, `Pandas`, `SQL`, `Power BI`, `Excel` |
+#### | **Ciberseguridad** | `Linux`, `git`, `Nmap`, `Metasploit`, `Burp Suite`, `Wireshark`, `Análisis Forense`|
+#### | **Análisis de Datos** | `Python`, `Pandas`, `SQL`, `Power BI`, `Excel` |
 
 ---
 
