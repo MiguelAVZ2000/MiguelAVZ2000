@@ -36,13 +36,13 @@ Aquí tienes algunos proyectos que reflejan mis capacidades técnicas:
 ## 🎓 Certificaciones
 
 - ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)  
-  Certificado de Ciberseguridad – Google (Coursera)
+  [Certificado de Ciberseguridad – Google (Coursera)](https://www.coursera.org/account/accomplishments/professional-cert/XJOCY586EXGG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 - ![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-green?logo=google&logoColor=white)  
-  Certificado de Análisis de Datos – Google (Coursera)
+  [Certificado de Análisis de Datos – Google (Coursera)](https://www.coursera.org/account/accomplishments/professional-cert/F7E4X28JDM23?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 - ![Talento Digital](https://img.shields.io/badge/Talento_Digital-Especialidad_Análisis_de_Datos-purple)  
-  Especialidad en Análisis de Datos – Talento Digital  
+  [Especialidad en Análisis de Datos – Talento Digital](https://www.acreditta.com/credential/e3a58ab9-4a15-43c0-82fd-21bc35b155fa?utm_source=linkedin_profile&resource_type=badge&resource=e3a58ab9-4a15-43c0-82fd-21bc35b155fa) 
 
 ---
 
