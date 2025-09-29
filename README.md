@@ -1,7 +1,6 @@
 # 👋 Hola, soy Miguel Vargas
 
-Ingeniero Informático con enfoque en **Ciberseguridad** y **Análisis de Datos**.  
-Combino mi pasión por entender el funcionamiento interno de sistemas con el análisis y la extracción de valor a partir de datos.
+Ingeniero Informático con enfoque en **Soporte**, **Ciberseguridad** y **Análisis de Datos**.  
 
 > “Resolver problemas técnicos complejos y mejorar procesos es lo que me motiva cada día.”  
 
@@ -11,12 +10,12 @@ Combino mi pasión por entender el funcionamiento interno de sistemas con el an�
 
 Aquí tienes algunos proyectos que reflejan mis capacidades técnicas:
 
-### ⚔️ Pentesting en Aplicaciones Web  
+### ⚔️ [Bootcamp HACKING ÉTICO EN APLICATIVOS WEB]  
 > Simulación de ataques en aplicaciones web para detectar vulnerabilidades comunes (SQL Injection, XSS, CSRF, etc.).  
 **Tecnologías:** `Linux`, `Nmap`, `Burp Suite`, `Wireshark`, `Python`, `Scapy`  
 🔗 [Repositorio](https://github.com/MiguelAVZ2000/Bootcamp-Hacking-etico)  
 
-### 📊 Análisis de Datos y Dashboards  
+### 📊 [Bootcamp de Análisis de Datos]  
 > Extracción, limpieza, análisis y visualización de conjuntos de datos para generar insights accionables.  
 **Tecnologías:** `Python`, `Pandas`, `SQL`, `Power BI`, `Excel`  
 🔗 [Repositorio](https://github.com/MiguelAVZ2000/Bootcamp-Analisis-de-Datos)  
@@ -49,8 +48,8 @@ Aquí tienes algunos proyectos que reflejan mis capacidades técnicas:
 
 ## 📫 Contacto
 
-- 📧 Email: tu.email@ejemplo.com  
-- 🔗 LinkedIn: [tu perfil LinkedIn](https://www.linkedin.com/in/tu-perfil)  
+- 📧 Email: miguel.avz2000@gmail.com  
+- 🔗 LinkedIn: [tu perfil LinkedIn](https://www.linkedin.com/in/miguel-vargas-51aa24258)  
 - 💬 GitHub: [MiguelAVZ2000](https://github.com/MiguelAVZ2000)
 
 ---
