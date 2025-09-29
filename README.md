@@ -10,12 +10,12 @@ Ingeniero Informático con enfoque en **Soporte**, **Ciberseguridad** y **Análi
 
 Aquí tienes algunos proyectos que reflejan mis capacidades técnicas:
 
-### ⚔️ [Bootcamp HACKING ÉTICO EN APLICATIVOS WEB]  
+### ⚔️ [HACKING ÉTICO EN APLICATIVOS WEB]  
 > Simulación de ataques en aplicaciones web para detectar vulnerabilidades comunes (SQL Injection, XSS, CSRF, etc.).  
 **Tecnologías:** `Linux`, `Nmap`, `Burp Suite`, `Wireshark`, `Python`, `Scapy`  
 🔗 [Repositorio](https://github.com/MiguelAVZ2000/Bootcamp-Hacking-etico)  
 
-### 📊 [Bootcamp de Análisis de Datos]  
+### 📊 [Análisis de Datos]  
 > Extracción, limpieza, análisis y visualización de conjuntos de datos para generar insights accionables.  
 **Tecnologías:** `Python`, `Pandas`, `SQL`, `Power BI`, `Excel`  
 🔗 [Repositorio](https://github.com/MiguelAVZ2000/Bootcamp-Analisis-de-Datos)  
@@ -28,6 +28,7 @@ Aquí tienes algunos proyectos que reflejan mis capacidades técnicas:
 |---|---|
 | **Ciberseguridad** | Linux, Nmap, Metasploit, Burp Suite, Wireshark, Análisis Forense |
 | **Análisis de Datos** | Python, Pandas, SQL, Power BI, Excel |
+| **Soporte TI** | armado, mantencion y configuracion de equipos |
 
 
 ---
