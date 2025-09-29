@@ -49,8 +49,8 @@ Aquí tienes algunos proyectos que reflejan mis capacidades técnicas:
 ## 📫 Contacto
 
 - 📧 Email: miguel.avz2000@gmail.com  
-- 🔗 LinkedIn: [tu perfil LinkedIn](https://www.linkedin.com/in/miguel-vargas-51aa24258)  
-- 💬 GitHub: [MiguelAVZ2000](https://github.com/MiguelAVZ2000)
+- 🔗 LinkedIn: [Mi perfil LinkedIn](https://www.linkedin.com/in/miguel-vargas-51aa24258)  
+- 💬 GitHub: [Mi perfil Github](https://github.com/MiguelAVZ2000)
 
 ---
 
