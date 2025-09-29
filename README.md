@@ -55,13 +55,5 @@ Aquí tienes algunos proyectos que reflejan mis capacidades técnicas:
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelAVZ2000&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 ✨ *Siempre abierto a colaborar en proyectos de ciberseguridad, análisis de datos y desarrollo técnico. Si ves algo interesante en mi perfil o quieres proponer una colaboración, contáctame.*  
 
