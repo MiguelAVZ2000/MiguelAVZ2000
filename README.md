@@ -1,37 +1,67 @@
-### Sobre mí
+# 👋 Hola, soy Miguel Vargas
 
-Soy un Ingeniero Informático titulado, con una fuerte pasión por la tecnología, la ciberseguridad, los datos y la mejora continua. Desde mis primeros pasos en el mundo de la informática, me ha motivado entender cómo funcionan las cosas a nivel interno y cómo optimizar procesos y resolver problemas técnicos.
-.
+Ingeniero Informático con enfoque en **Ciberseguridad** y **Análisis de Datos**.  
+Combino mi pasión por entender el funcionamiento interno de sistemas con el análisis y la extracción de valor a partir de datos.
+
+> “Resolver problemas técnicos complejos y mejorar procesos es lo que me motiva cada día.”  
+
+---
+
+## 🔍 Proyectos Destacados
+
+Aquí tienes algunos proyectos que reflejan mis capacidades técnicas:
+
+### ⚔️ Pentesting en Aplicaciones Web  
+> Simulación de ataques en aplicaciones web para detectar vulnerabilidades comunes (SQL Injection, XSS, CSRF, etc.).  
+**Tecnologías:** `Linux`, `Nmap`, `Burp Suite`, `Wireshark`, `Python`, `Scapy`  
+🔗 [Repositorio](https://github.com/MiguelAVZ2000/Bootcamp-Hacking-etico)  
+
+### 📊 Análisis de Datos y Dashboards  
+> Extracción, limpieza, análisis y visualización de conjuntos de datos para generar insights accionables.  
+**Tecnologías:** `Python`, `Pandas`, `SQL`, `Power BI`, `Excel`  
+🔗 [Repositorio](https://github.com/MiguelAVZ2000/Bootcamp-Analisis-de-Datos)  
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+| Área | Tecnologías / Herramientas |
+|---|---|
+| **Ciberseguridad** | Linux, Nmap, Metasploit, Burp Suite, Wireshark, Análisis Forense |
+| **Análisis de Datos** | Python, Pandas, SQL, Power BI, Excel |
 
 
 ---
 
-### Proyectos Destacados
+## 🎓 Certificaciones
 
-Aquí te muestro algunos portafolios que reflejan mis habilidades en diferentes áreas.
+- ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)  
+  Certificado de Ciberseguridad – Google (Coursera)
 
-#### ⚡ **[Bootcamp HACKING ÉTICO EN APLICATIVOS WEB]**
-> 
-> **Tecnologías:** `Linux`, `Nmap`, `Pentesting`, `Wireshark`, `Python`, `Scapy` `JavaScript básico`, `Git`, 
->
-> **[Enlace al repositorio](https://github.com/MiguelAVZ2000/Bootcamp-Hacking-etico)**
+- ![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-green?logo=google&logoColor=white)  
+  Certificado de Análisis de Datos – Google (Coursera)
 
-#### 📊 **[Bootcamp de Análisis de Datos]**
-> 
-> **Tecnologías:** `Python`, `Pandas`, `Power BI`, `Excel`, `SQL`
->
-> **[Enlace al repositorio](https://github.com/MiguelAVZ2000/Bootcamp-Analisis-de-Datos)**
-
+- ![Talento Digital](https://img.shields.io/badge/Talento_Digital-Especialidad_Análisis_de_Datos-purple)  
+  Especialidad en Análisis de Datos – Talento Digital  
 
 ---
 
-### Habilidades y Herramientas
 
-#### | **Ciberseguridad** | `Linux`, `git`, `Nmap`, `Metasploit`, `Burp Suite`, `Wireshark`, `Análisis Forense`|
-#### | **Análisis de Datos** | `Python`, `Pandas`, `SQL`, `Power BI`, `Excel` |
+## 📫 Contacto
+
+- 📧 Email: tu.email@ejemplo.com  
+- 🔗 LinkedIn: [tu perfil LinkedIn](https://www.linkedin.com/in/tu-perfil)  
+- 💬 GitHub: [MiguelAVZ2000](https://github.com/MiguelAVZ2000)
 
 ---
 
-<div align="center">
-  <p>Estoy siempre abierto a colaborar en proyectos y a aprender de la comunidad. ¡No dudes en contactarme!</p>
-</div>
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelAVZ2000&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+✨ *Siempre abierto a colaborar en proyectos de ciberseguridad, análisis de datos y desarrollo técnico. Si ves algo interesante en mi perfil o quieres proponer una colaboración, contáctame.*  
+
