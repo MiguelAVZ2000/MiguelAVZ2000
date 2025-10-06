@@ -8,8 +8,6 @@ Ingeniero Informático con enfoque en **Soporte**, **Ciberseguridad** y **Análi
 
 ## 🔍 Proyectos Destacados
 
-Aquí tienes algunos proyectos que reflejan mis capacidades técnicas:
-
 ### ⚔️ [HACKING ÉTICO EN APLICATIVOS WEB]  
 > Simulación de ataques en aplicaciones web para detectar vulnerabilidades comunes (SQL Injection, XSS, CSRF, etc.).  
 **Tecnologías:** `Linux`, `Nmap`, `Burp Suite`, `Wireshark`, `Python`, `Scapy`  
@@ -50,8 +48,8 @@ Aquí tienes algunos proyectos que reflejan mis capacidades técnicas:
 ## 📫 Contacto
 
 - 📧 Email: miguel.avz2000@gmail.com  
-- 🔗 LinkedIn: [Mi perfil LinkedIn](https://www.linkedin.com/in/miguel-vargas-51aa24258)  
-- 💬 GitHub: [Mi perfil Github](https://github.com/MiguelAVZ2000)
+- 🔗 [Mi perfil LinkedIn](https://www.linkedin.com/in/miguel-vargas-51aa24258)  
+- 💬 [Mi perfil Github](https://github.com/MiguelAVZ2000)
 
 ---
 
