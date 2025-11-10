@@ -54,7 +54,4 @@ Ingeniero Informático con enfoque en **Soporte**, **Ciberseguridad** y **Análi
 - 🔗 [Mi perfil LinkedIn](https://www.linkedin.com/in/miguel-vargas-51aa24258)  
 - 💬 [Mi perfil Github](https://github.com/MiguelAVZ2000)
 
----
-
-✨ *Siempre abierto a colaborar en proyectos de ciberseguridad, análisis de datos y desarrollo técnico. Si ves algo interesante en mi perfil o quieres proponer una colaboración, contáctame.*  
 
