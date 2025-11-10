@@ -42,7 +42,7 @@ Ingeniero Informático con enfoque en **Soporte**, **Ciberseguridad** y **Análi
 - ![Talento Digital](https://img.shields.io/badge/Talento_Digital-Especialidad_Análisis_de_Datos-purple)  
   [Especialidad en Análisis de Datos – Talento Digital](https://www.acreditta.com/credential/e3a58ab9-4a15-43c0-82fd-21bc35b155fa?utm_source=linkedin_profile&resource_type=badge&resource=e3a58ab9-4a15-43c0-82fd-21bc35b155fa)
 
-- ![Talento Digital](https://img.shields.io/badge/Talento_Digital-Especialidad_Análisis_de_Datos-red)  
+- ![Talento Digital](https://img.shields.io/badge/Talento_Digital-Especialidad_Hacking_Ético-red)  
   [Especialidad en Hacking Ético – Talento Digital](https://www.acreditta.com/credential/6e750984-7d82-42b8-aaf9-609b18def54d?utm_source=linkedin_profile&resource_type=badge&resource=e3a58ab9-4a15-43c0-82fd-21bc35b155fa) 
 
 ---
