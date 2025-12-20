@@ -1,6 +1,6 @@
 # 👋 Hola, soy Miguel Vargas
 
-Ingeniero Informático con enfoque en **Soporte**, **Ciberseguridad** y **Análisis de Datos**.  
+Ingeniero Informático con enfoque en **Ciberseguridad** y **Análisis de Datos**.  
 
 > “Resolver problemas técnicos complejos y mejorar procesos es lo que me motiva cada día.”  
 
@@ -26,7 +26,7 @@ Ingeniero Informático con enfoque en **Soporte**, **Ciberseguridad** y **Análi
 |---|---|
 | **Ciberseguridad** | Linux, Nmap, Metasploit, Burp Suite, Wireshark, Análisis Forense |
 | **Análisis de Datos** | Python, Pandas, SQL, Power BI, Excel |
-| **Soporte TI** | armado, mantencion y configuracion de equipos |
+| **Soporte TI** | redes, armado, mantencion y configuracion de equipos |
 
 
 ---
