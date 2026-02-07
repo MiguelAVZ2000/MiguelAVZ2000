@@ -52,7 +52,6 @@ Me dedico a construir software escalable y seguro, integrando mejores prácticas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Hardware](https://img.shields.io/badge/Hardware-Support-808080?style=flat-square&logo=intel&logoColor=white)
 
 ### Datos
@@ -77,7 +76,3 @@ Me dedico a construir software escalable y seguro, integrando mejores prácticas
 *   **LinkedIn:** [linkedin.com/in/miguel-vargas-51aa24258](https://www.linkedin.com/in/miguel-vargas-51aa24258/)
 *   **Email:** miguel.avz2000@gmail.com
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelAVZ2000&show_icons=true&theme=graywhite&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAVZ2000&layout=compact&theme=graywhite&hide_border=true)
