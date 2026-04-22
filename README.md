@@ -7,7 +7,7 @@ Ingeniero Informático con un enfoque integral en el desarrollo de soluciones te
 
 ## Perfil Profesional
 
-Me dedico a construir software escalable y seguro, integrando mejores prácticas de desarrollo con una visión analítica. Mi experiencia abarca desde la creación de aplicaciones web modernas hasta la implementación de medidas de seguridad y el análisis estratégico de datos, ofreciendo siempre un soporte técnico confiable para garantizar la continuidad operativa.
+Me dedico a construir software escalable y seguro, integrando mejores prácticas de desarrollo con una visión analítica. Mi experiencia abarca desde la creación de aplicaciones web modernas hasta la implementación de medidas de seguridad y el análisis estratégico de datos.
 
 **Áreas de Enfoque:**
 *   **Desarrollo Full Stack:** Diseño, implementación y despliegue de aplicaciones web utilizando tecnologías modernas (React, Next.js, Node.js).
