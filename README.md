@@ -21,7 +21,6 @@ Me dedico a construir software escalable y seguro, integrando mejores prácticas
 
 | Proyecto | Descripción | Tecnologías |
 |:---|:---|:---|
-| **[La Taberna](https://github.com/MiguelAVZ2000/Lataberna)** | Plataforma e-commerce integral de Rol (D&D 5e). Incluye marketplace, wiki interactiva y gestión de personajes con autenticación robusta. | Next.js 15, React 19, Supabase, Tailwind CSS |
 | **[Calmate](https://github.com/MiguelAVZ2000/Calmate)** | E-commerce especializado en té. Arquitectura moderna con carrito persistente, autenticación segura y diseño responsivo optimizado. | Next.js, TypeScript, Supabase, Radix UI |
 | **[Sistema de Inventario](https://github.com/MiguelAVZ2000/App_inventario)** | Aplicación web para la gestión eficiente de inventarios, implementando operaciones CRUD y persistencia de datos local. | JavaScript, HTML5, CSS3, LocalStorage |
 | **[Bootcamp Hacking Ético Web](https://github.com/MiguelAVZ2000/Bootcamp-Hacking-etico)** | Portafolio integral de pruebas de penetración en entornos web, incluyendo detección y explotación de vulnerabilidades (SQLi, XSS) y remediación. | Python, Nmap, Wireshark, Burp Suite |
